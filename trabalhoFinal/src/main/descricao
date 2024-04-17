@@ -1,0 +1,23 @@
+problema
+
+Os times de uma empresa enfrentam um grande problema. Como eles são muito democráticos,
+todos os dias eles gastam 30 minutos decidindo onde eles almoçarão.
+
+Vamos fazer um pequeno sistema que auxilie essa tomada de decisão!
+
+- [ ]  **Requisitos do Sistema:** O sistema deverá possibilitar:
+    - [ ]  Cadastro de votos;
+    - [ ]  Um funcionário só pode votar 1 vez por dia e em 1 restaurante apenas;
+    - [ ]  Listar funcionários;
+    - [ ]  Listar restaurantes
+    - [ ]  Apurar votação do dia.
+
+Instruções
+
+- [ ]  O sistema deve ser construído utilizando como banco de dados o H2;
+- [ ]  Utilize Gradle no projeto;
+- [ ]  A camada de acesso a dados deve ser construída utilizando JPA;
+- [ ]  Utilize MVC;
+- [ ]  O código deve estar documentado com JavaDoc;
+- [ ]  Utilize os conteudos da disciplina na implementação do trabalho;
+- [ ]  O Sistema deve possuir um menu.
